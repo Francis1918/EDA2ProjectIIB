@@ -1,0 +1,1 @@
+# Este archivo permite que el directorio frontend sea tratado como un paquete
