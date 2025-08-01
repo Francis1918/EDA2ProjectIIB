@@ -43,6 +43,7 @@ class MainWindow(QMainWindow):
     def mostrar_resultados(self, resultados):
         """Muestra los resultados del análisis en la pestaña correspondiente"""
         self.resultados.actualizar_resultados(resultados)
+        self.estadisticas.agregar_resultados(resultados)  # Actualizar estadísticas
         self.tabs.setCurrentIndex(2)  # Cambiar a la pestaña de resultados
 
 
