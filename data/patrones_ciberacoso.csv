@@ -1,3 +1,121 @@
 Patrón,Tipo,Nivel de Severidad
 muerete,Insulto,Alto
 vales verga,Insulto,Alto
+feo,Insulto,Moderado
+fea,Insulto,Moderado
+estupido,Insulto,Moderado
+estupida,Insulto,Moderado
+inutil,Insulto,Moderado
+largate,Exclusión,Moderado
+salte del grupo,Exclusión,Moderado
+maldito,Insulto,Alto
+maldita,Insulto,Alto
+te voy a matar,Amenaza,Alto
+zorro,Insulto,Alto
+zorra,Insulto,Alto
+quieres bala ?,Amenaza,Alto
+voy a matar a tus papas,Amenaza,Alto
+imbecil,Insulto,Moderado
+rubias tontas,Insulto,Moderado
+tonto,Insulto,Moderado
+tonta,Insulto,Moderado
+idiota,Insulto,Moderado
+payaso,Insulto,Moderado
+payasa,Insulto,Moderado
+perdedor,Insulto,Moderado
+perdedora,Insulto,Moderado
+fracasado,Insulto,Moderado
+fracasada,Insulto,Moderado
+nadie te quiere,Exclusión,Alto
+no te soporto,Exclusión,Moderado
+vete de aqui,Exclusión,Moderado
+no te queremos,Exclusión,Alto
+no perteneces aqui,Exclusión,Alto
+te vamos a excluir,Exclusión,Alto
+no eres bienvenido,Exclusión,Alto
+no eres bienvenida,Exclusión,Alto
+te odio,Insulto,Alto
+te detesto,Insulto,Alto
+eres un error,Insulto,Alto
+no sirves para nada,Insulto,Alto
+mejor ni hables,Exclusión,Moderado
+callate,Exclusión,Moderado
+no opines,Exclusión,Moderado
+te voy a golpear,Amenaza,Alto
+te voy a lastimar,Amenaza,Alto
+te vas a arrepentir,Amenaza,Alto
+me las vas a pagar,Amenaza,Alto
+te encontrare,Amenaza,Alto
+vas a sufrir,Amenaza,Alto
+te dare tu merecido,Amenaza,Alto
+cobarde,Insulto,Moderado
+mediocre,Insulto,Moderado
+incompetente,Insulto,Moderado
+bueno para nada,Insulto,Alto
+ignorante,Insulto,Moderado
+ridiculo,Insulto,Moderado
+ridicula,Insulto,Moderado
+fastidioso,Insulto,Moderado
+fastidiosa,Insulto,Moderado
+molesto,Insulto,Moderado
+molesta,Insulto,Moderado
+horrible,Insulto,Moderado
+desagradable,Insulto,Moderado
+insoportable,Insulto,Moderado
+no vales nada,Insulto,Alto
+inservible,Insulto,Alto
+no mereces estar aqui,Exclusión,Alto
+vete del grupo,Exclusión,Moderado
+nadie te necesita,Exclusión,Alto
+mejor desaparece,Amenaza,Alto
+te voy a hundir,Amenaza,Alto
+te arruinare la vida,Amenaza,Alto
+me vengare,Amenaza,Alto
+pagaras por esto,Amenaza,Alto
+te destruire,Amenaza,Alto
+acabare contigo,Amenaza,Alto
+te hare la vida imposible,Amenaza,Alto
+no tienes amigos,Exclusión,Alto
+todos te odian,Exclusión,Alto
+nadie te soporta,Exclusión,Alto
+eres patetico,Insulto,Alto
+eres patetica,Insulto,Alto
+das lastima,Insulto,Alto
+das pena,Insulto,Alto
+eres basura,Insulto,Alto
+no eres nadie,Insulto,Alto
+perdedor de la vida,Insulto,Alto
+fracasado de la vida,Insulto,Alto
+te voy a hacer llorar,Amenaza,Alto
+te arrepentiras,Amenaza,Alto
+mejor ni vengas,Exclusión,Moderado
+no aparezcas,Exclusión,Moderado
+date por muerto,Amenaza,Alto
+date por muerta,Amenaza,Alto
+te voy a destrozar,Amenaza,Alto
+te hare pedazos,Amenaza,Alto
+eres un don nadie,Insulto,Alto
+eres una don nadie,Insulto,Alto
+no vales la pena,Insulto,Alto
+mejor ni existas,Amenaza,Alto
+desgraciado,Insulto,Alto
+desgraciada,Insulto,Alto
+inepto,Insulto,Moderado
+inepta,Insulto,Moderado
+torpe,Insulto,Moderado
+inutil de la vida,Insulto,Alto
+no sirves ni para,Insulto,Alto
+das asco,Insulto,Alto
+me enfermas,Insulto,Alto
+te odio con toda mi alma,Insulto,Alto
+eres lo peor,Insulto,Alto
+ojala desaparezcas,Amenaza,Alto
+te borrare del mapa,Amenaza,Alto
+te eliminare,Amenaza,Alto
+no mereces vivir,Amenaza,Alto
+te hare sufrir,Amenaza,Alto
+te perseguire,Amenaza,Alto
+te vigilare,Amenaza,Alto
+te acosare,Amenaza,Alto
+no escaparas,Amenaza,Alto
+te encontrare donde sea,Amenaza,Alto
